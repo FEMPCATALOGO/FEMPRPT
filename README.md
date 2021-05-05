@@ -19,7 +19,7 @@
   
 |Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-|  Sector público. |  Inexistente  |  *[Repositorio](https://github.com/opencitydata/vocab-sector-publico-rpt)*  | *[Issues](https://github.com/opencitydata/vocab-sector-publico-rpt/issues)*  |    |    |  Instrumento técnico que tiene como objeto la ordenación del personal de acuerdo a las necesidades de los servicios.    |     |     |       |
+|  Sector público. |  Inexistente  |  *[Repositorio](https://github.com/opencitydata/vocab-sector-publico-rpt)*  | *[Issues](https://github.com/opencitydata/vocab-sector-publico-rpt/issues)*  |  Instrumento técnico que tiene como objeto la ordenación del personal de acuerdo a las necesidades de los servicios.   |    |    |     |     |       |
  
   
 
