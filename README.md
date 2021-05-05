@@ -1,12 +1,3 @@
----
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: single
-author_profile: true 
-title: false
-classes: wide
----
 <div id="bodyid">
 <link href="stylesheet.css" rel="stylesheet"/>
 
@@ -28,7 +19,7 @@ classes: wide
   
 |Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-|   |   |    |   |    |    |    |     |     |       |
+|  Sector público. |  Inexistente  |  *[Repositorio](https://github.com/opencitydata/vocab-sector-publico-rpt)*  | *[Issues](https://github.com/opencitydata/vocab-sector-publico-rpt/issues)*  |    |    |  Instrumento técnico que tiene como objeto la ordenación del personal de acuerdo a las necesidades de los servicios.    |     |     |       |
  
   
 
